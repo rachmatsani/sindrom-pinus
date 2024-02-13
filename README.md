@@ -1,0 +1,2 @@
+# sindrom-pinus
+sindrom pinus
